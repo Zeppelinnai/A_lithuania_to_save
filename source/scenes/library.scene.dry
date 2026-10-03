@@ -28,7 +28,7 @@ The Lithuanian Republic is a parliamentary republic with a strong parliament, ca
 
 The Seimas is elected based on a multi-member constituencies system, so while parties in each constituency have proportional seats to their vote share, overall large parties strongly benefit since the number of seats in each constituency is limited. Elections are normally sheduled to be had every three years. A majority vote-of-no-confidence can remove the current government.
 
-The President is elected by the Seimas rather than the people, and consequently invites a Prime Minister to form a cabinet. The ministerial positions are expected to go to the members of the coalition that elected the current President, with some independents in the mix.
+The President is elected by the Seimas rather than the people after each Seimas election, and consequently invites a Prime Minister to form a cabinet. The ministerial positions are expected to go to the members of the coalition that elected the current President, with some independents in the mix.
 
 While there are local elections and municipal councils, Lithuania is fundamentally a unitary republic, meaning that they do not have a broad scope of powers and mostly handle day-to-day managerial affairs.
 
@@ -37,9 +37,11 @@ go-to: menu
 
 = Timeline of the LKDP and the Republic (until 1922)
 
-**1875**: The SPD is formed as a merger of the General German Workers' Association, founded by Ferdinand Lassalle, and the Social Democratic Workers' Party of Germany, led by Wilhelm Liebknecht and August Bebel. Eventually, the SPD grows to become the largest party in the German Empire.
+**1890**: The LKDP is formed as an unregistered organization by Lithuanian intellectuals and clergy, advocating the defence of Lithuanian culture and Catholic faith in the face of assimilationist policies of Tsar Alexander III.
 
-**1914**: The Great War begins. The SPD votes in favor of war credits, with substantial internal dissent. This begins a policy of *Burgfriedenspolitik*, a general peace between all political parties and trade unions.
+**1914**: The Great War begins.
+
+**1915**: Lithuania comes under the control of the German Empire as Russian armies collapse. The territory is controlled by an occupation government led by the Commander-In-Chief in the East, Paul von Hindenburg.
 
 **1917**: The USPD, a left-wing anti-war split from the SPD, is formed.
 
@@ -284,18 +286,31 @@ go-to: menu
 
 **Demographic Groups**
 
-**Rural**: Lithuanian agrarians, residing in villages and single-family homesteads (known as Viensėdis) constitute around 80% of population. They are overwhelmingly poor, lacking in education and nationalistic. Peasants tend to support parties catered to them in particular, including our allied Farmer's Association.
+**By Occupation**:
 
-**Working Class**: Blue-collar workers in factories, workshops, mines, and transportation constitute just around 10% of our population at the moment - much less than in Western European countries. Despite being slightly more well-off than the average peasant, they still tend to support LSDP and the communist Workers' Group
+**Rural**: Lithuanian agrarians, residing in villages and single-family homesteads (known as Viensėdis) constitute around 80% of population. They are overwhelmingly poor, lacking in education and nationalistic. Peasants tend to support parties catered to them in particular, including our allied Farmer's Association, although we do have support from them in particular areas as well.
 
-**Old Mittelstand**: The old middle class consists of independent artisans, shopkeepers, and small-time businesspeople. They tend to be conservative and are the strongest base for the <span style="color: #7A3C00;">far</span>-<span style="color: #3E88B3;">right</span>. 10-15% of the population.
+**Working Class**: Blue-collar workers in factories, workshops, mines, and transportation constitute just around 10% of our population at the moment - much less than in Western European countries. Despite being slightly more well-off than the average peasant, just like their Western counterparts they tend to support LSDP and the communist Workers' Group, although our associated party and Christian unions organization Labour Federations also appeals strongly to this group.
 
-**New Mittelstand**: The new middle class consists of white-collar workers and government employees. This is the base of <span style="color: #D3C24D;">liberalism</span>. 10-15% of the population.
+**Old Middle Class**: The old middle class consists of independent artisans, shopkeepers, and small-time businesspeople. Given how small Lithuania's urban population is, the class largely consists of the first group and overall accounts just for 4-5% of the population. They tend to be conservative and are generally strong supporters for our party, although some more nationalistic ones support the Party of National Progress.
 
-**Catholics** are the largest religious minority, at about 30% of the population. [? if not cvp_formed: They disproportionately support the [? if z_party_name != "CVP": <span style="color: #000000;">Center Party</span>?][? if z_party_name == "CVP": <span style="color: #000000;">**CVP**</span>?]?][? if cvp_formed: They find themselves split between supporting the <span style="color: #000000;">**CVP**</span> and the <span style="color: #c00000;">**SPD**</span>. ?] (or the <span style="color: #A2D8E0;">**Bavarian People's Party**</span> in <span style="color: #00CCFF;">Bavaria</span>).
+**New Middle Class**: The new middle class consists of white-collar workers, government employees and intellectuals. With the second group being particularly numerous, accounting for 3% of our population, the class overall accounts for 5-6% of the population. Given our history of intellectualism in the party, many, especially the more religious members of this class support us, although some more secular ones prefer the left-wing LSLDP or LSDP.
 
-**Jews** account for between 0.5% to 1% of the population, and tend to support liberal parties, [? if ddp_name == "DDP" or not ddp_name: mostly the <span style="color: #D3C24D;">**DDP**</span>?][? if ddp_name == "DStP": although the mild antisemitism of the Young German Order and it's association with the <span style="color: #D3C24D;">**[+ ddp_name +]**</span> has driven them away?], although substantial numbers support the <span style="color: #c00000;">**SPD**</span> or <span style="color: #700000;">**KPD**</span>.
+**By Ethnicity and Faith**:
 
+**Lithuanians** are the dominant nationality of the eponymous country, accounting for between 76 and 84 percent of the population. Lithuanians are predominantly Catholic, but degree of devoutness does vary.
+
+**Poles** account for 3-10% of our population, concentrated in the Southern regions of Sūduva and Dzūkija, with many hiding their descent due to the overwhelming Polonophobia in Lithuania. They are also Catholic, and generally very devout.
+
+**Jews** constitute around 7.5% of the population, and account for almost 30% of our urban residents. Being Jewish religiously and ethnically is synonymous in Lithuania; a Jew who converts to Christianity becomes Lithuanian
+
+**Russians and Belarusians** form around 3% of our population, including residents since the times of Russian Empire and immigrants who fled Bolsheviks alike. A very significant percent of them, around half, are Old Believers, historically persecuted remnants of a 17th century Orthodox split, living in isolated rural communities; the rest are mainline Orthodox, although there is a small but notable Catholic minority.
+
+**Germans** are just about 1.5% of the population, mostly in areas adjacent to the Memel territory. Being East Prussians, they are overwhelmingly Lutheran.
+
+**Latvians** are a small community of slightly below 0.5% scattered along our Northern border. They often join parties representing Germans due to their shared Lutheran faith.
+
+Around 0.5 to 1 percent are various other minor nationalities, including Estonians, Czech, Lithuanian Tatars, who, while culturally assimilated into the Lithianian culture, have preserved their Islamic faith, Karaites, a unique and very small ethnoreligious group that split off from the Jews back in the Middle Ages, and various foreign nationals, representing diplomatic and business interests in Kaunas.
 
 @public_opinion
 on-arrival: {!
