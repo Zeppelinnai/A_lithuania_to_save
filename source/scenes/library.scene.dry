@@ -43,11 +43,11 @@ go-to: menu
 
 **1915**: Lithuania comes under the control of the German Empire as Russian armies collapse. The territory is controlled by an occupation government led by the Commander-In-Chief in the East, Paul von Hindenburg.
 
-**1917**: The USPD, a left-wing anti-war split from the SPD, is formed.
+**1917**: LKDP is formally registered as a political party.
 
-**1918**: Following defeats in the war and uprisings by soldiers, sailors, and workers, SPD leader Philip Scheidemann proclaims the German Republic, and Kaiser Wilhelm II abdicates from his throne. An armistice is declared, ending the Great War. Conflict between center-left social democrats and far-left radicals erupts in the streets of Berlin and elsewhere.
+**1918**: On 16th of February, a group of Lithuanian activists and political intellectuals, including members of our party, sign the Act of Independence of Lithuania. Initially under German pressure it is proposed to form a constitutional Kingdom of Lithuania, and Wilhelm Karl, duke of Urach, is invited to be potentially crowned as King Mindaugas II. However, after the fall of the German Empire, it is decided to form a republic instead. LKDP hosts its first party congress on 20th of November.
 
-**1919**: The Spartacist Uprising, in which communist workers attempt to seize control of government, is launched. The uprising is defeated by the Social Democratic government, now led by President Friedrich Ebert and Chancellor Philipp Scheidemann, with the support of the far-right Freikorps militas. The two key leaders of the uprising, Rosa Luxemburg and Karl Liebknecht, are murdered by the Freikorps. The Treaty of Versailles is signed under great protest from all political factions in Germany, officially ending the Great War. The Weimar Constitution is signed. The first "Weimar Coalition" government is formed, led by the SPD, DDP, and Center (Z) parties.
+**1919**: Vilnius is occupied by Polish forces after Germans withdraw in January. In December of the previous year, Bolsheviks launch an attack of the Red Army together with domestic communists, but their attempt to take Kaunas in February is stopped thanks to a large volunteer corp from the German state of Saxony. In May, now more prepared Lithuanian army together with the volunteer corps launched a counter-offensive and successfully driven the communists out of Lithuania by the end of summer.
 
 **1920**: The Kapp Putsch, an attempt by reactionary actors within the military to take power, is launched, and is defeated by the workers with a general strike. This is followed by left-wing uprisings in the Ruhr, which are defeated by the Reichswehr and Freikorps. The Weimar Coalition is defeated in the elections, with the right and far left increasing in vote share. Elected governments in this period are very unstable, often only lasting a matter of months. There is a split in the USPD, with the majority faction joining with the KPD and the Soviet Union's Communist International (Comintern) alliance.
 
@@ -290,7 +290,7 @@ go-to: menu
 
 **Rural**: Lithuanian agrarians, residing in villages and single-family homesteads (known as Viensėdis) constitute around 80% of population. They are overwhelmingly poor, lacking in education and nationalistic. Peasants tend to support parties catered to them in particular, including our allied Farmer's Association, although we do have support from them in particular areas as well.
 
-**Working Class**: Blue-collar workers in factories, workshops, mines, and transportation constitute just around 10% of our population at the moment - much less than in Western European countries. Despite being slightly more well-off than the average peasant, just like their Western counterparts they tend to support LSDP and the communist Workers' Group, although our associated party and Christian unions organization Labour Federations also appeals strongly to this group.
+**Working Class**: Blue-collar workers in factories, workshops, mines, and transportation constitute just around 10% of our population at the moment - much less than in Western European countries. Despite being slightly more well-off than the average peasant, just like their Western counterparts they tend to support LSDP and the communist Workers' Group, although our associated party and Christian unions organization Labour Federation also appeals strongly to this group.
 
 **Old Middle Class**: The old middle class consists of independent artisans, shopkeepers, and small-time businesspeople. Given how small Lithuania's urban population is, the class largely consists of the first group and overall accounts just for 4-5% of the population. They tend to be conservative and are generally strong supporters for our party, although some more nationalistic ones support the Party of National Progress.
 
@@ -298,11 +298,11 @@ go-to: menu
 
 **By Ethnicity and Faith**:
 
-**Lithuanians** are the dominant nationality of the eponymous country, accounting for between 76 and 84 percent of the population. Lithuanians are predominantly Catholic, but degree of devoutness does vary.
+**Lithuanians** are the dominant nationality of the eponymous country, accounting for between 76 and 84 percent of the population. Lithuanians are predominantly Catholic, but the degree of devoutness does vary.
 
 **Poles** account for 3-10% of our population, concentrated in the Southern regions of Sūduva and Dzūkija, with many hiding their descent due to the overwhelming Polonophobia in Lithuania. They are also Catholic, and generally very devout.
 
-**Jews** constitute around 7.5% of the population, and account for almost 30% of our urban residents. Being Jewish religiously and ethnically is synonymous in Lithuania; a Jew who converts to Christianity becomes Lithuanian
+**Jews** constitute around 7.5% of the population, and account for almost 30% of our urban residents. Being Jewish religiously and ethnically is synonymous in Lithuania; a Jew who converts to Christianity becomes a Lithuanian.
 
 **Russians and Belarusians** form around 3% of our population, including residents since the times of Russian Empire and immigrants who fled Bolsheviks alike. A very significant percent of them, around half, are Old Believers, historically persecuted remnants of a 17th century Orthodox split, living in isolated rural communities; the rest are mainline Orthodox, although there is a small but notable Catholic minority.
 
@@ -310,7 +310,7 @@ go-to: menu
 
 **Latvians** are a small community of slightly below 0.5% scattered along our Northern border. They often join parties representing Germans due to their shared Lutheran faith.
 
-Around 0.5 to 1 percent are various other minor nationalities, including Estonians, Czech, Lithuanian Tatars, who, while culturally assimilated into the Lithianian culture, have preserved their Islamic faith, Karaites, a unique and very small ethnoreligious group that split off from the Jews back in the Middle Ages, and various foreign nationals, representing diplomatic and business interests in Kaunas.
+Around 0.5 to 1 percent are various other minor nationalities, including Estonians, Czechs, Lithuanian Tatars, who, while culturally assimilated into the Lithianian culture, have preserved their Islamic faith, Karaites, a unique and very small ethnoreligious group that split off from the Jews back in the Middle Ages, and various foreign nationals, representing diplomatic and business interests in Kaunas.
 
 @public_opinion
 on-arrival: {!
